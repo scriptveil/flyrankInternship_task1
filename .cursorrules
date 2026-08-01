@@ -1,0 +1,15 @@
+# Project Conventions
+
+   ## Stack
+   - Language: JavaScript/TypeScript (Node.js LTS)
+   - Package manager: npm
+
+   ## Conventions
+   - Commit messages follow Conventional Commits (feat:, fix:, docs:, chore:, etc.)
+   - Code style: 2-space indentation, semicolons required
+   - Prefer clear, descriptive variable names over abbreviations
+
+   ## AI Assistant Notes
+   - Explain reasoning briefly before making changes
+   - Ask before installing new dependencies
+   - Keep functions small and single-purpose
