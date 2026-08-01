@@ -1,0 +1,21 @@
+{
+  "name": "flyrankinternship_task1",
+  "version": "1.0.0",
+  "description": "This is my capstone project for the AI-assisted development internship track.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scriptveil/flyrankInternship_task1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/scriptveil/flyrankInternship_task1/issues"
+  },
+  "homepage": "https://github.com/scriptveil/flyrankInternship_task1#readme"
+}
